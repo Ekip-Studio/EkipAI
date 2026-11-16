@@ -1,19 +1,19 @@
 {
-  "surum": "v1.0.2-beta",
-  "ad": "EkipAI Beta v1.0.2",
+  "surum": "v1.0.3-beta",
+  "ad": "EkipAI Beta v1.0.3",
   "on_surum": true,
-  "notlar": "Denetim sürümü: 'geri al' veri kaybı, kuyruk, plan onayı ve ping pong düzeltmeleri; güvenlik sıkılaştırması (panel yalnız kendi penceresinden açılır, güncellemeler imzalı); Windows düzeltmeleri (tek kopya, gizli pencereler, proje kurulumu, skill bağlantıları); arayüz düzeltmeleri. Telefon erişimi ve Tailscale kaldırıldı.",
-  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.0.2-beta",
+  "notlar": "Pencereli deneme (EkipAI onayınla programı açıp yalnız onun penceresinin görüntüsünü alır), projeye Çalıştır düğmesi, onaylı komutların canlı çıktısı; sonuç kartında ana ajanın değerlendirmesi ve aynı engel tekrar edince çıkış yolu; 'araştırayım mı, yapayım mı' sorusunu çoğu durumda yapay zekâ çözer; uzun konuşmada takılma ve kaybolan tıklama giderildi; alt ajan ayarı bütün işçilerde; sayaçta gerçek kullanım ve önbellek ayrı; onay kartının yeniden çıkması düzeltildi.",
+  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.0.3-beta",
   "dosyalar": {
-    "EkipAI-1.0.2-beta-mac-arm64.dmg": {
-      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.2-beta/EkipAI-1.0.2-beta-mac-arm64.dmg",
-      "boyut": 42911130,
-      "sha256": "de57b827742552a82e2409db07fe1f568a514ca15b13d8a7302c571b2cd2a0d4"
+    "EkipAI-1.0.3-beta-mac-arm64.dmg": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.3-beta/EkipAI-1.0.3-beta-mac-arm64.dmg",
+      "boyut": 42904478,
+      "sha256": "03371c9332280baba1065b72906a601632fd8364ed3a33ff4e59877d7bdb9021"
     },
-    "EkipAI-1.0.2-beta-win-x64.exe": {
-      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.2-beta/EkipAI-1.0.2-beta-win-x64.exe",
-      "boyut": 15684938,
-      "sha256": "d8435b1ceccfce8801f8d0b23c18dd545e4cc1f328c9ad049f5fe30e54ec60b5"
+    "EkipAI-1.0.3-beta-win-x64.exe": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.3-beta/EkipAI-1.0.3-beta-win-x64.exe",
+      "boyut": 15724390,
+      "sha256": "8bf93476060559ae55048d32ae563c0e919dbe770d94d0f51640e586e42043cd"
     }
   }
 }
