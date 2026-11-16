@@ -1,14 +1,19 @@
 {
-  "surum": "v1.0-beta",
-  "ad": "EkipAI Beta v1.0",
+  "surum": "v1.0.2-beta",
+  "ad": "EkipAI Beta v1.0.2",
   "on_surum": true,
-  "notlar": "İlk test sürümü.",
-  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.0-beta",
+  "notlar": "Denetim sürümü: 'geri al' veri kaybı, kuyruk, plan onayı ve ping pong düzeltmeleri; güvenlik sıkılaştırması (panel yalnız kendi penceresinden açılır, güncellemeler imzalı); Windows düzeltmeleri (tek kopya, gizli pencereler, proje kurulumu, skill bağlantıları); arayüz düzeltmeleri. Telefon erişimi ve Tailscale kaldırıldı.",
+  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.0.2-beta",
   "dosyalar": {
-    "EkipAI-1.0-beta-mac-arm64.dmg": {
-      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0-beta/EkipAI-1.0-beta-mac-arm64.dmg",
-      "boyut": 43559731,
-      "sha256": "bdec69a57290f3422f487806f95661986eb5c82131ce09fbb7b49e081d5f3542"
+    "EkipAI-1.0.2-beta-mac-arm64.dmg": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.2-beta/EkipAI-1.0.2-beta-mac-arm64.dmg",
+      "boyut": 42911130,
+      "sha256": "de57b827742552a82e2409db07fe1f568a514ca15b13d8a7302c571b2cd2a0d4"
+    },
+    "EkipAI-1.0.2-beta-win-x64.exe": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.2-beta/EkipAI-1.0.2-beta-win-x64.exe",
+      "boyut": 15684938,
+      "sha256": "d8435b1ceccfce8801f8d0b23c18dd545e4cc1f328c9ad049f5fe30e54ec60b5"
     }
   }
 }
