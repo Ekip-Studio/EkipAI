@@ -1,19 +1,19 @@
 {
-  "surum": "v1.0.4-beta",
-  "ad": "EkipAI Beta v1.0.4",
+  "surum": "v1.1.0-beta",
+  "ad": "EkipAI 1.1.0 beta",
+  "notlar": "Windows artık Mac ile aynı pencereyle çalışıyor. Yeni kurulum, Başlamadan önce penceresi, yeni tanıtım, Yardım, koyu renk tonları, yazı boyutu ve gizlilik düzeltmeleri.",
   "on_surum": true,
-  "notlar": "Mac paketi artık Apple onaylı: ilk açılışta \"Yine de Aç\" adımı gerekmez. Apple ile giriş eklendi. Güncelleme her açılışta denetlenir ve yeni sürüm üstte küçük bir satırla haber verilir. Yeni ayar: Ayarlar → Gelişmiş → İşçilerin interneti (Sıkı / Dengeli / Serbest). Varsayılan Dengeli: işçiler web'de arama yapıp sayfa okuyabilir, paket kurulumu ve belge için izinli adreslere (npm, PyPI, GitHub vb.) onay kartı çıkmadan bağlanılır, listede olmayan bir adres gerekirse yine onay sorulur; eski davranış için Sıkı'yı seçebilirsin. Kullanım sayacı Ayarlar'dan açılıp kapatılır, gerçek harcama yazıyla belirtilir. Sekmeli pencereler ilk sekmeden açılır. Geliştirici modu ve \"Önceki sürüme dön\" kaldırıldı.",
-  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.0.4-beta",
+  "sayfa": "https://github.com/Ekip-Studio/EkipAI/releases/tag/v1.1.0-beta",
   "dosyalar": {
-    "EkipAI-1.0.4-beta-mac-arm64.dmg": {
-      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.4-beta/EkipAI-1.0.4-beta-mac-arm64.dmg",
-      "boyut": 43270786,
-      "sha256": "9b72b62c4a1cb1773cbb263bfb7fdabea39bc492ce9b6b58a2ef92f378387b92"
+    "EkipAI-1.1.0-beta-mac-arm64.dmg": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.1.0-beta/EkipAI-1.1.0-beta-mac-arm64.dmg",
+      "boyut": 190365296,
+      "sha256": "35846fff17eb3955409ed0cd2046c34197bdf218bf6406cad1e0473d1d88c849"
     },
-    "EkipAI-1.0.4-beta-win-x64.exe": {
-      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.0.4-beta/EkipAI-1.0.4-beta-win-x64.exe",
-      "boyut": 15754520,
-      "sha256": "e6d6b260575d6c0f901bb594bcb9009ab45d49ec0fd7969200d1975710baae0a"
+    "EkipAI-1.1.0-beta-win-x64.exe": {
+      "adres": "https://github.com/Ekip-Studio/EkipAI/releases/download/v1.1.0-beta/EkipAI-1.1.0-beta-win-x64.exe",
+      "boyut": 131228589,
+      "sha256": "0f8854747a2041303ede6c90cc849611dcf6504e6701f1ff9800d26d56c5c01f"
     }
   }
 }
