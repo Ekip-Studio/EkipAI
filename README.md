@@ -1,95 +1,99 @@
 <div align="center">
 
-<img src="gorseller/ekipai-simge.png" width="128" alt="EkipAI simgesi">
+<img src="gorseller/ekipai-simge.png" width="128" alt="EkipAI icon">
 
 # EkipAI
 
-**Yapay zekâlarından bir ekip kur.**
+**Turn your AIs into a team.**
 
-Claude, ChatGPT, Gemini, DeepSeek ve Kimi'yi tek bir ekipte çalıştıran masaüstü uygulaması.
+A desktop app that puts Claude, ChatGPT, Gemini, DeepSeek and Kimi to work together as one team.
 
-[**İndir**](https://github.com/Ekip-Studio/EkipAI/releases) · Mac ve Windows · Ücretsiz beta
+[**Download**](https://github.com/Ekip-Studio/EkipAI/releases) · Mac and Windows · Free beta · 16 languages
+
+**English** · [Türkçe](README.tr.md)
 
 </div>
 
 ---
 
-<img src="gorseller/ekran-pencereler.png" alt="EkipAI: ekran dört pencereye bölünmüş">
+<img src="gorseller/screen-single.png" alt="EkipAI: a new chat">
 
-## Nasıl çalışır
+## How it works
 
-Sen ne istediğini yazarsın. EkipAI'nin **ana agent**'ı işi parçalara böler, parçaları ekipteki yapay zekâlara dağıtır ve sonucu kontrol eder. Her yapay zekâ iyi olduğu işi yapar, kotası dolan yerine diğeri devreye girer.
+You write what you want. EkipAI's **main agent** breaks the job into parts, hands each part to the AI on the team that fits it best, and checks the result. When one AI runs out of quota, another one takes over.
 
-- **Sohbet ve Görev:** Bir şey sor ya da iş ver. EkipAI uygulamayı, oyunu ya da düzeltmeyi yapar, dener ve sana gösterir.
-- **Projeler:** Her projenin kendi hafızası, sürümleri ve testleri var. Kaldığın yerden devam edersin.
-- **Ofis:** Senin yerine düzenli bakan çalışanlar. Postanı okur, haberleri toplar, kısa bir rapor bırakır.
-- **Pano ve Karne:** Hangi yapay zekâ neyi ne kadar iyi yapıyor, kotan ne durumda, hepsi bir bakışta.
-- **Skill ve MCP:** Ekibe yeni yetenekler ve araçlar ekle.
+- **Chat and Task:** Ask a question or hand over a job. EkipAI builds the app, the game or the fix, tries it and shows it to you.
+- **Projects:** Every project keeps its own memory, versions and tests, so you pick up where you left off.
+- **Office:** Workers that check things for you on a schedule. They read your mail, gather the news and leave a short report.
+- **Dashboard and Scorecard:** See at a glance which AI is good at what and how much quota you have left.
+- **Skills and MCP:** Give the team new skills and tools.
 
-### Projeler
+### Up to four chats side by side
 
-Her projenin kendi sayfası var: konuşmaları, sürümleri, hafızası, dosyaları ve testleri bir arada.
+Split the window into two or four panes. Each pane runs its own chat with its own AI, and you can watch them all at once.
 
-<img src="gorseller/ekran-proje.png" alt="EkipAI proje sayfası">
+<img src="gorseller/screen-panes.png" alt="EkipAI with the window split into four panes">
 
-### Ofis
+### Office
 
-Hazır çalışanlardan birini ekle ya da ne istediğini kendi sözlerinle anlat; EkipAI çalışan kartını hazırlar.
+Add a ready-made worker, or describe what you need in your own words and EkipAI drafts the worker card.
 
-<img src="gorseller/ekran-ofis.png" alt="EkipAI Ofis: hazır çalışanlar">
+<img src="gorseller/screen-office.png" alt="EkipAI Office: ready-made workers">
 
-### Pano ve Karne
+### Dashboard and Scorecard
 
-Kotaların ve kullanımın bir bakışta. Karne, hangi yapay zekânın hangi işte ne kadar başarılı olduğunu tutar; otomatik dağıtım buna bakar.
+Your quotas and usage at a glance. The scorecard keeps track of how well each AI does at each kind of job, and automatic task assignment uses it.
 
-<img src="gorseller/ekran-pano.png" alt="EkipAI Pano: yapay zekâların kotası ve kullanımı">
+<img src="gorseller/screen-dashboard.png" alt="EkipAI Dashboard: quota and usage per AI">
 
-<img src="gorseller/ekran-karne.png" alt="EkipAI Karne">
+<img src="gorseller/screen-scorecard.png" alt="EkipAI Scorecard">
 
-### Skill ve MCP
+### Skills and MCP
 
-Anthropic, Vercel, Google ve diğerlerinin hazır skill paketleri tek yerde.
+Ready-made skill packs from Anthropic, Vercel, Google and others, all in one place.
 
-<img src="gorseller/ekran-skill.png" alt="EkipAI Skill ve MCP pazarı">
+<img src="gorseller/screen-skills.png" alt="EkipAI Skills and MCP marketplace">
 
-### Ayarlar
+### Settings
 
-Hangi yapay zekâların ve araçların çalışacağını sen seçersin.
+You choose which AIs and tools get to work.
 
-<img src="gorseller/ekran-ayarlar-yz.png" alt="EkipAI Ayarlar: yapay zekâlar">
+<img src="gorseller/screen-settings-ai.png" alt="EkipAI Settings: AIs">
 
-### Temalar
+### Themes
 
-Açık ve koyu temada beş renk: Beyaz, Krem, Gök, Adaçayı ve Lavanta.
+Five colors in light and dark: White, Cream, Sky, Sage and Lavender. You can also make all text larger or smaller.
 
-<img src="gorseller/ekran-temalar-acik.png" alt="EkipAI açık temada dört renk">
+<img src="gorseller/screen-colors.png" alt="EkipAI appearance settings in light and dark">
 
-<img src="gorseller/ekran-temalar-koyu.png" alt="EkipAI koyu temada dört renk">
+<img src="gorseller/themes-light.png" alt="EkipAI in four light theme colors">
 
-## Gizlilik
+<img src="gorseller/themes-dark.png" alt="EkipAI in four dark theme colors">
 
-- Konuşmaların, projelerin ve raporların **senin bilgisayarında** durur.
-- Yapay zekâlar **senin kendi hesaplarınla** çalışır; EkipAI araya girmez.
-- API anahtarların bilgisayarının güvenli deposunda tutulur.
-- Bulut eşitleme isteğe bağlıdır ve uçtan uca şifrelidir.
+## Privacy
 
-## İndir ve kur
+- Your conversations, projects and reports stay **on your computer**.
+- The AIs work **with your own accounts**; EkipAI doesn't sit in between.
+- Your API keys are kept in your computer's secure storage.
+- Cloud sync is optional and end-to-end encrypted.
+
+## Download and install
 
 | | |
 |---|---|
-| **Mac** | Apple Silicon (M1 ve sonrası), macOS 13 ya da yenisi. `.dmg` dosyasını aç, EkipAI'yi Uygulamalar'a sürükle. |
-| **Windows** | Windows 10/11, 64 bit. `.exe` dosyasını aç, kurulumu izle. "Windows bilgisayarınızı korudu" çıkarsa **Ek bilgi › Yine de çalıştır**. |
+| **Mac** | Apple Silicon (M1 or later), macOS 13 or newer. Open the `.dmg` and drag EkipAI into Applications. |
+| **Windows** | Windows 10/11, 64-bit. Open the `.exe` and follow the installer. If you see "Windows protected your PC", click **More info › Run anyway**. |
 
-[**Son sürümü indir →**](https://github.com/Ekip-Studio/EkipAI/releases)
+[**Download the latest version →**](https://github.com/Ekip-Studio/EkipAI/releases)
 
-EkipAI'yi kullanmak için en az bir yapay zekâ hesabın olmalı: Claude, ChatGPT ya da Gemini. İlk açılışta uygulama seni adım adım yönlendirir.
+To use EkipAI you need at least one AI account: Claude, ChatGPT or Gemini. On first launch the app walks you through setup.
 
-## Geri bildirim
+## Feedback
 
-Bir sorun mu buldun, bir fikrin mi var? Uygulamada **hesap menüsü › Geri bildirim gönder**'i kullan ya da asikenes360@gmail.com adresine yaz.
+Found a problem or have an idea? In the app, use **account menu › Send feedback**, or write to asikenes360@gmail.com.
 
 ---
 
 <div align="center">
-<sub>EkipAI bir <a href="https://github.com/Ekip-Studio">Ekip Studio</a> uygulamasıdır. Kaynak kodu kapalıdır; bu depo yalnız sürüm dosyalarını barındırır.</sub>
+<sub>EkipAI is made by <a href="https://github.com/Ekip-Studio">Ekip Studio</a>. The source code is closed; this repository only hosts the release files.</sub>
 </div>
